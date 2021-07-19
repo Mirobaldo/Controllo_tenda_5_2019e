@@ -1,0 +1,26 @@
+Source:	C:/Users/baldanza/OneDrive/Lavoro/KiCAD/Bus Posteriore OK Monofaccia/Bus Posteriore.sch				
+Date:	28/12/2017 15:52:08				
+Tool:	Eeschema 4.0.7				
+Component Count:	21				
+Ref	Value	Footprint	Datasheet	Manufacturer	Vendor
+C1	100nF	Capacitors_ThroughHole:C_Disc_D4.3mm_W1.9mm_P5.00mm			
+C2	100nF	Capacitors_ThroughHole:C_Disc_D4.3mm_W1.9mm_P5.00mm			
+C3	100nF	Capacitors_ThroughHole:C_Disc_D4.3mm_W1.9mm_P5.00mm			
+C4	100nF	Capacitors_ThroughHole:C_Disc_D4.3mm_W1.9mm_P5.00mm			
+C5	100nF	Capacitors_ThroughHole:C_Disc_D4.3mm_W1.9mm_P5.00mm			
+C6	100uF	Capacitors_ThroughHole:CP_Axial_L11.0mm_D5.0mm_P18.00mm_Horizontal			
+J1	DB9	Connect:DB9MC			
+J2	DB9	SUNBlind:DB9FCsmall			
+J3	DB9	SUNBlind:DB9FCsmall			
+J4	DB9	SUNBlind:DB9FCsmall			
+P1	CONN_01X05	Pin_Headers:Pin_Header_Straight_1x05_Pitch2.54mm			
+R1	10kR	Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal			
+R2	10kR	Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal			
+R3	10kR	Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal			
+R4	10kR	Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal			
+R5	10kR	Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal			
+R6	10kR	Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal			
+R7	10kR	Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal			
+R8	100R	Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal			
+SH1	ARDUINO_as_UNO	SHIELD_ARDUINO:ARDUINO_as_UNO_R3_CONTOUR			
+U1	PIC12F675-I/P	Housings_DIP:DIP-8_W7.62mm			

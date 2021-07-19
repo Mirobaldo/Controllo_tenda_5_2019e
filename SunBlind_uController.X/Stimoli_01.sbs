@@ -1,0 +1,72 @@
+## SCL Builder Setup File: Do not edit!!
+
+## VERSION: MPLAB X
+## FORMAT:  v2.00.01
+## DEVICE:  PIC12F675
+
+## PINREGACTIONS
+cyc
+No Repeat
+--
+&
+## ADVPINREGACTIONS
+--
+&
+--
+COND1
+Any
+
+
+
+0
+cyc
+
+--
+&
+## CLOCK
+&
+## STIMULUSFILE
+&
+## RESPONSEFILE
+&
+## ASYNCH
+Pin
+GP0
+Set High
+
+SP1
+-1
+--
+Pin
+GP5
+Set High
+
+SP2
+-1
+--
+Pin
+GP2
+Set High
+
+Pulsante down
+-1
+--
+Pin
+GP3
+Set High
+
+Pulsante open
+-1
+--
+Pin
+GP4
+Toggle
+
+Wath dog input
+-1
+--
+&
+## ADVANCEDSCL
+
+0
+&

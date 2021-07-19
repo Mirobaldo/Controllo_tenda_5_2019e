@@ -1,0 +1,5 @@
+{
+    "port": "COM26",
+    "board": "arduino:avr:uno",
+    "sketch": "Controllo_Tenda_5.ino"
+}
